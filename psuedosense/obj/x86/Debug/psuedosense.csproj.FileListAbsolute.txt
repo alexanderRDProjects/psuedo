@@ -1,0 +1,4 @@
+C:\Users\Xand\Documents\Projects\psuedosense\psuedosense\bin\Debug\psuedosense.exe
+C:\Users\Xand\Documents\Projects\psuedosense\psuedosense\bin\Debug\psuedosense.pdb
+C:\Users\Xand\Documents\Projects\psuedosense\psuedosense\obj\x86\Debug\psuedosense.exe
+C:\Users\Xand\Documents\Projects\psuedosense\psuedosense\obj\x86\Debug\psuedosense.pdb
